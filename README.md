@@ -2,6 +2,8 @@
   # E-Commerce Database
   
   ### Developed by [**Conrad Trost**](https://github.com/retro1967)
+  
+  [Demo Video Link](https://youtu.be/cQoWFifofDQ)
 
   ## Description
   #### Database to store inventory for an e-commerce site using Node.js, Sequelize, and MySQL.
