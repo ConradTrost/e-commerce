@@ -41,7 +41,7 @@ router.put('/:id', (req, res) => {
     },
   })
   .then(updated => {
-    res.json(updated ` category updated`);
+    res.json(updated + ` category updated`);
   });
 });
 
